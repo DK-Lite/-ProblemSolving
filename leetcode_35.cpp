@@ -28,7 +28,7 @@ int strStr(string haystack, string needle) {
 	}
 	return -1;
 }
-int main() {
-	cout << strStr("abbbbbaabbaabaabbbaaaaabbabbbabbbbbaababaabbaabbbbbababaababbbbaaabbbbabaabaaaabbbbabbbaabbbaabbaaabaabaaaaaaaa","abbbaababbbabbbabbbbbabaaaaaaabaabaabbbbaabab") << endl;
-	return 0;
-}
+//int main() {
+//	cout << strStr("abbbbbaabbaabaabbbaaaaabbabbbabbbbbaababaabbaabbbbbababaababbbbaaabbbbabaabaaaabbbbabbbaabbbaabbaaabaabaaaaaaaa","abbbaababbbabbbabbbbbabaaaaaaabaabaabbbbaabab") << endl;
+//	return 0;
+//}
